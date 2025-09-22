@@ -100,13 +100,6 @@ p {
 
 }
 
-input::placeholder {
-  position: relative;
-  left: 15px;  
-}
-
-
-
 #lastname {
     padding: 10px;
     border: 1px solid #ccc;
@@ -157,4 +150,5 @@ input::placeholder {
 
 #submit:hover {
     background: #0056b3;
+
 }
